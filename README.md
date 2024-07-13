@@ -1,1 +1,1 @@
-# FactoryMethod
+# Patrones de diseño

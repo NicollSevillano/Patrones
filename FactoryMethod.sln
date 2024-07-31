@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeBalich", "CompositeBalich\CompositeBalich.csproj", "{7EFB5DE9-704C-4F9A-A215-D3325A5AD77F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{0E610E0F-143B-4790-858E-823953B4BC51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7EFB5DE9-704C-4F9A-A215-D3325A5AD77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EFB5DE9-704C-4F9A-A215-D3325A5AD77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EFB5DE9-704C-4F9A-A215-D3325A5AD77F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E610E0F-143B-4790-858E-823953B4BC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E610E0F-143B-4790-858E-823953B4BC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E610E0F-143B-4790-858E-823953B4BC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E610E0F-143B-4790-858E-823953B4BC51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
